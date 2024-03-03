@@ -106,7 +106,7 @@ Explicitly use `@notice`, don't let the compiler pick it up automatically:
 becomes this:
 
 ```
-/// @notice This is a notice.
+/// @notice This is a notice. to
 ```
 
 #### Annotation indentation
